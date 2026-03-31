@@ -39,7 +39,6 @@ I’m a developer deeply interested in the intersection of **software and silico
 ### 📈 GitHub Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mrgreenapple24?cardType=github&theme=midnight-purple&fontFamily=Albert%20Sans&preferLogin=true)](https://git.io/awesome-stats-card)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgreenapple24&size_weight=0.5&count_weight=0.5)
 
 
 ---
