@@ -16,7 +16,7 @@ I’m a developer deeply interested in the intersection of **software and silico
 
   
 ### 🤝 Let's Build Something Together!
-**I'm looking for people to collaborate with me on projects!** Whether it's optimizing systems-level code, diving into FPGA architecture, or building out game engine internals, I'd love to team up. If you're passionate about low-level development or hardware design, feel free to reach out or open a PR!
+* I'm looking for people to collaborate with me on projects! Whether it's optimizing systems-level code, diving into FPGA architecture, or building out game engine internals, I'd love to team up. If you're passionate about low-level development or hardware design, feel free to reach out or open a PR!
 ---
 
 ### 🚀 Technical Skills
