@@ -26,5 +26,3 @@ I’m a developer deeply interested in the intersection of **software and silico
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ko-fi.com/mrgreenapple24"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/mrgreenapple24" /></a></p><br><br>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mrgreenapple24?cardType=github&theme=midnight-purple&fontFamily=Albert%20Sans&preferLogin=true)](https://git.io/awesome-stats-card)
-
