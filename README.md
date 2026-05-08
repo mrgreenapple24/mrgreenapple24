@@ -2,17 +2,17 @@
 
 I’m a developer deeply interested in the intersection of **software and silicon**. From building physics engines in C++ to designing processors in Verilog, I love tearing down abstractions to see how things work under the hood.
 
-- 🔭 I’m currently working on [a RISC-V CPU](https://github.com/mrgreenapple24/RvNOVA)
+- I’m currently working on [a RISC-V CPU](https://github.com/mrgreenapple24/RvNOVA)
 
-- 🌱 I’m currently learning **operating systems and embedded technologies**
+- I’m currently learning **operating systems and embedded technologies**
 
-- 👯 I’m looking to collaborate on [my chess engine](https://github.com/mrgreenapple24/chessNova)
+- I’m looking to collaborate on [my chess engine](https://github.com/mrgreenapple24/chessNova)
 
-- 🤝 I’m looking for help with [a remake of git in C](https://github.com/mrgreenapple24/gift)
+- I’m looking for help with [a remake of git in C](https://github.com/mrgreenapple24/gift)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mrgreenapple24?tab=repositories](https://github.com/mrgreenapple24?tab=repositories)
+- All of my projects are available at [https://github.com/mrgreenapple24?tab=repositories](https://github.com/mrgreenapple24?tab=repositories)
 
-- 📫 How to reach me **mrchill2405@gmail.com**
+- How to reach me **mrchill2405@gmail.com**
 
 
 <h3 align="left">Support:</h3>
