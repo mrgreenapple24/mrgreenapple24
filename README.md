@@ -12,7 +12,7 @@ I’m a developer deeply interested in the intersection of **software and silico
 
 - All of my projects are available at [https://github.com/mrgreenapple24?tab=repositories](https://github.com/mrgreenapple24?tab=repositories)
 
-- How to reach me **mrchill2405@gmail.com**
+- Check out my [Portfolio Website](https://mrgreenapplz.netlify.app/)
 
 
 <h3 align="left">Support:</h3>
